@@ -1,1 +1,1 @@
-# cdef-magazine-2018-Q1
+# cdef-magazine
